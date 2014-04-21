@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+font-family: 'Dosis', sans-serif;
+font-weight: 100;
+}
+
+h3 {
+color: #4c6890;
+}
+
+h4 {
+color: #4c6890;
+}
+
+header {
+    margin-left: 10px;
+}
+
+
